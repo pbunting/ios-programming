@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:popover/popover.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:auto-layout/auto-layout.xcodeproj">
    </FileRef>
 </Workspace>
